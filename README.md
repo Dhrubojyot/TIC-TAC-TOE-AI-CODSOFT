@@ -1,5 +1,5 @@
 # TIC-TAC-TOE-AI-CODSOFT
-Its an an AI agent that plays the classic game of Tic-Tac-Toe against a human player. I uses the Minimax algorithm with alpha-beta pruning to play strategically against the human player, And for the Computer Graphics I used the Pygame module to design the game and make it more attractive for the users to play.
+Its an AI agent that plays the classic game of Tic-Tac-Toe against a human player. I uses the Minimax algorithm with alpha-beta pruning to play strategically against the human player, And for the Computer Graphics I used the Pygame module to design the game and make it more attractive for the users to play.
 
 # Output of TIC-TAC-TOE Screen
 ![Screenshot 2024-03-08 195844](https://github.com/Dhrubojyot/TIC-TAC-TOE-AI-CODSOFT/assets/108850678/b7d52bbd-0651-480e-9649-eaf32959efea)
